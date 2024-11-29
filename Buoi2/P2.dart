@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:math';
 
 //Viet chuong trinh tinh tong cac uoc cua 1 so nguyen (n >= 1)
 void main(){

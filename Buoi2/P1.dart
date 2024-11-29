@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:math';
 
 //Bai tap: Viet chuong trinh chuyen doi 1 so nguyen thanh so nhi phan
 void main(){
