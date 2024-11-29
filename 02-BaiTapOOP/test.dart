@@ -1,6 +1,6 @@
-import './models/CuaHang.dart';
-import './models/DienThoai.dart';
-import './models/HoaDon.dart';
+import 'models/CuaHang.dart';
+import 'models/DienThoai.dart';
+import 'models/HoaDon.dart';
 
 void main(){
   CuaHang cuaHang = CuaHang('Cửa Hàng Điện Thoại DTHANG', 'Số 123, Đường Lê Thị Riêng');
