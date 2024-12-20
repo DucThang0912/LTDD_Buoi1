@@ -1,0 +1,23 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "",
+            "body": "",
+            "base64Image": ""
+        },
+        {
+            "id": 2,
+            "title": "",
+            "body": "",
+            "base64Image": ""
+        }
+    ],
+    "users": [
+        {
+            "username": "DucThang",
+            "password": "thang",
+            "fullname": "Nguyen Duc Thang"
+        }
+    ]
+}

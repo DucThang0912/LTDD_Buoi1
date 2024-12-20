@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Cách làm bánh mì Việt Nam",
+            "body": "Hướng dẫn chi tiết cách làm bánh mì Việt Nam ngon nhất.",
+            "base64Image": ""
+        },
+        {
+            "id": 2,
+            "title": "Khám phá phố cổ Hội An",
+            "body": "Những điều thú vị và địa điểm không thể bỏ qua khi đến Hội An.",
+            "base64Image": ""
+        },
+        {
+            "id": 3,
+            "title": "Hướng dẫn lập trình React",
+            "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng React để phát triển ứng dụng web.",
+            "base64Image": ""
+        }
+    ],
+    "users": [
+        {
+            "username": "ducthang",
+            "password": "thang",
+            "fullname": "Nguyen Duc Thang"
+        },
+        {
+            "username": "naruto",
+            "password": "thang",
+            "fullname": "naruto"
+        }
+    ]
+}
